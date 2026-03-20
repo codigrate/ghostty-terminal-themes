@@ -3,9 +3,10 @@
 # Category: Nature
 #
 # Description:
-# Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme brings a crisp and calming
-# presence to Ghostty. Soft icy tones and clean, airy surfaces evoke snow-covered peaks and clear mountain skies, 
-# creating a terminal experience that feels fresh, focused, and easy on the eyes.
+# Inspired by the majestic heights and serene landscapes of Mount Everest,
+# this light theme aims to provide a calming and focused coding environment.
+# The soft blues and grays mimic the icy terrains, while subtle hints of warmer
+# colors evoke the golden hues of dawn breaking over snow-capped peaks.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
@@ -16,10 +17,10 @@ background = #E4ECEF
 foreground = #0E3448
 
 selection-background = #B6D8E5
-selection-foreground = #25323A
+selection-foreground = #0E3448
 
 cursor-color = #467196
-cursor-text = #FDFEFF
+cursor-text = #FFFFFF
 
 # --- ANSI 16-color palette ---
 

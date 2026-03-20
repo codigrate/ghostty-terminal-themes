@@ -52,11 +52,6 @@ creating a terminal experience that feels fresh, focused, and easy on the eyes.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FDFEFF.png?width=30&height=30"></td>
-      <td>Cursor Text</td>
-      <td>#FDFEFF</td>
-   </tr>
-   <tr>
       <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
       <td>Background</td>
       <td>#E4ECEF</td>
@@ -75,11 +70,6 @@ creating a terminal experience that feels fresh, focused, and easy on the eyes.
       <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
       <td>Foreground</td>
       <td>#0E3448</td>
-   </tr>
-   <tr>
-      <td><img src="https://codigrate.com/util/color/25323A.png?width=30&height=30"></td>
-      <td>Selection Foreground</td>
-      <td>#25323A</td>
    </tr>
 </table>
 
