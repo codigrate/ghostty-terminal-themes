@@ -97,31 +97,24 @@ Lights, creating an atmosphere that feels immersive, calm, and vibrant.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/142B37.png?width=30&height=30" alt="#142B37"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/142B37">#142B37</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1C3847.png?width=30&height=30" alt="#1C3847"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/1C3847">#1C3847</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/049682.png?width=30&height=30" alt="#049682"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/049682">#049682</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -149,31 +142,24 @@ and easy to live with throughout the day.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FEFCFC.png?width=30&height=30" alt="#FEFCFC"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/FEFCFC">#FEFCFC</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F8DBE6.png?width=30&height=30" alt="#F8DBE6"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/F8DBE6">#F8DBE6</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B54B66.png?width=30&height=30" alt="#B54B66"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/B54B66">#B54B66</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -200,31 +186,24 @@ tones and subtle green life. It creates a focused, earthy atmosphere that feels 
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/20231C.png?width=30&height=30" alt="#20231C"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/20231C">#20231C</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/394132.png?width=30&height=30" alt="#394132"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/394132">#394132</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/73A621.png?width=30&height=30" alt="#73A621"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/73A621">#73A621</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -252,31 +231,24 @@ and quietly expressive.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FCFBFA.png?width=30&height=30" alt="#FCFBFA"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/FCFBFA">#FCFBFA</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/EFE6E0.png?width=30&height=30" alt="#EFE6E0"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/EFE6E0">#EFE6E0</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A7714C.png?width=30&height=30" alt="#A7714C"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/A7714C">#A7714C</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -304,31 +276,24 @@ of atmosphere to everyday command line work.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1E1A1B.png?width=30&height=30" alt="#1E1A1B"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/1E1A1B">#1E1A1B</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/372C2F.png?width=30&height=30" alt="#372C2F"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/372C2F">#372C2F</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/CC654E.png?width=30&height=30" alt="#CC654E"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/CC654E">#CC654E</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -355,31 +320,24 @@ accents into Ghostty. It feels fresh, calm, and expressive, offering a refined t
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FAFDFD.png?width=30&height=30" alt="#FAFDFD"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/FAFDFD">#FAFDFD</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/91D1DA.png?width=30&height=30" alt="#91D1DA"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/91D1DA">#91D1DA</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/087E8E.png?width=30&height=30" alt="#087E8E"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/087E8E">#087E8E</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -407,31 +365,24 @@ and clear visual contrast.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/33121D.png?width=30&height=30" alt="#33121D"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/33121D">#33121D</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/5D263A.png?width=30&height=30" alt="#5D263A"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/5D263A">#5D263A</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/FF5FA2.png?width=30&height=30" alt="#FF5FA2"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/FF5FA2">#FF5FA2</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -458,31 +409,24 @@ and clean blues to create a light, refreshing Ghostty experience that feels live
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F7FAF6.png?width=30&height=30" alt="#F7FAF6"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/F7FAF6">#F7FAF6</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/94B98B.png?width=30&height=30" alt="#94B98B"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/94B98B">#94B98B</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/375B2E.png?width=30&height=30" alt="#375B2E"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/375B2E">#375B2E</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -509,31 +453,24 @@ plum-espresso depth, and soft blush accents into Ghostty. It feels romantic, moo
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/271F20.png?width=30&height=30" alt="#271F20"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/271F20">#271F20</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/564245.png?width=30&height=30" alt="#564245"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/564245">#564245</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/D39199.png?width=30&height=30" alt="#D39199"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/D39199">#D39199</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -560,31 +497,24 @@ experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/EDF2FA.png?width=30&height=30" alt="#EDF2FA"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/EDF2FA">#EDF2FA</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/A9B9DA.png?width=30&height=30" alt="#A9B9DA"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/A9B9DA">#A9B9DA</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/3F4494.png?width=30&height=30" alt="#3F4494"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/3F4494">#3F4494</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
@@ -611,31 +541,24 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/1A1F35.png?width=30&height=30" alt="#1A1F35"></td>
-      <td>
-         Background
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/1A1F35">#1A1F35</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td>Background</td>
+      <td>#E4ECEF</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/323B66.png?width=30&height=30" alt="#323B66"></td>
-      <td>
-         Surface
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/323B66">#323B66</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td>Selection Background</td>
+      <td>#B6D8E5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/7285DC.png?width=30&height=30" alt="#7285DC"></td>
-      <td>
-         Accent
-      </td>
-      <td>
-         <a href="https://codigrate.com/en-US/tools/color/7285DC">#7285DC</a>
-      </td>
+      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td>Cursor</td>
+      <td>#467196</td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td>Foreground</td>
+      <td>#0E3448</td>
    </tr>
 </table>
 
