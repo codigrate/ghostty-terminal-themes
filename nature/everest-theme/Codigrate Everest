@@ -1,0 +1,76 @@
+# Codigrate Everest
+#
+# Category: Nature
+#
+# Description:
+# Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme brings a crisp and calming
+# presence to Ghostty. Soft icy tones and clean, airy surfaces evoke snow-covered peaks and clear mountain skies, 
+# creating a terminal experience that feels fresh, focused, and easy on the eyes.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #E4ECEF
+foreground = #0E3448
+
+selection-background = #B6D8E5
+selection-foreground = #25323A
+
+cursor-color = #467196
+cursor-text = #FDFEFF
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#88959C
+
+# Red
+palette = 1=#8F4446
+
+# Green
+palette = 2=#2E674F
+
+# Yellow
+palette = 3=#C08C4C
+
+# Blue
+palette = 4=#1A6D9F
+
+# Magenta
+palette = 5=#83529B
+
+# Cyan
+palette = 6=#005E79
+
+# White
+palette = 7=#25323A
+
+# Bright
+
+# Bright Black
+palette = 8=#A4B1B8
+
+# Bright Red
+palette = 9=#B25B57
+
+# Bright Green
+palette = 10=#3C8A6A
+
+# Bright Yellow
+palette = 11=#DCA35B
+
+# Bright Blue
+palette = 12=#2C7FB3
+
+# Bright Magenta
+palette = 13=#9E6AB3
+
+# Bright Cyan
+palette = 14=#0A7C92
+
+# Bright White
+palette = 15=#3A4A54
