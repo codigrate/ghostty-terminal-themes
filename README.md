@@ -97,24 +97,24 @@ Lights, creating an atmosphere that feels immersive, calm, and vibrant.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/183240.png?width=30&height=30"></td>
       <td>Background</td>
-      <td>#E4ECEF</td>
+      <td>#183240</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/214051.png?width=30&height=30"></td>
       <td>Selection Background</td>
-      <td>#B6D8E5</td>
+      <td>#214051</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/8DC5E1.png?width=30&height=30"></td>
       <td>Cursor</td>
-      <td>#467196</td>
+      <td>#8DC5E1</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/B0B9BE.png?width=30&height=30"></td>
       <td>Foreground</td>
-      <td>#0E3448</td>
+      <td>#B0B9BE</td>
    </tr>
 </table>
 

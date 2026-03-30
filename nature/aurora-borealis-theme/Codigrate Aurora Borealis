@@ -24,19 +24,6 @@ cursor-text = #112733
 
 # --- ANSI 16-color palette ---
 
-# --- Interface colors ---
-
-background = #183240
-foreground = #B0B9BE
-
-selection-background = #214051
-selection-foreground = #B0B9BE
-
-cursor-color = #8DC5E1
-cursor-text = #112733
-
-# --- ANSI 16-color palette ---
-
 # Standard
 
 # Black
