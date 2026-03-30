@@ -1,0 +1,90 @@
+# Codigrate Aurora Borealis
+#
+# Category: Nature
+#
+# Description:
+# Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery
+# of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the
+# ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus,
+# and code efficiently.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #183240
+foreground = #B0B9BE
+
+selection-background = #214051
+selection-foreground = #B0B9BE
+
+cursor-color = #8DC5E1
+cursor-text = #112733
+
+# --- ANSI 16-color palette ---
+
+# --- Interface colors ---
+
+background = #183240
+foreground = #B0B9BE
+
+selection-background = #214051
+selection-foreground = #B0B9BE
+
+cursor-color = #8DC5E1
+cursor-text = #112733
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#38505E
+
+# Red
+palette = 1=#C75C5D
+
+# Green
+palette = 2=#05C0A6
+
+# Yellow
+palette = 3=#CC9D57
+
+# Blue
+palette = 4=#549EFF
+
+# Magenta
+palette = 5=#BB719B
+
+# Cyan
+palette = 6=#7AC6F5
+
+# White
+palette = 7=#B0B9BE
+
+# Bright
+
+# Bright Black
+palette = 8=#6B808C
+
+# Bright Red
+palette = 9=#E07172
+
+# Bright Green
+palette = 10=#18D8BC
+
+# Bright Yellow
+palette = 11=#E6B86F
+
+# Bright Blue
+palette = 12=#7DB7FF
+
+# Bright Magenta
+palette = 13=#D193BB
+
+# Bright Cyan
+palette = 14=#8DC5E1
+
+# Bright White
+palette = 15=#E0E0E0
