@@ -130,9 +130,10 @@ Sakura
 
 ## Description
 
-Inspired by the enchanting softness of Sakura blossoms, this theme brings a delicate spring atmosphere to Ghostty.
-Gentle pinks and muted complementary tones create a serene, polished terminal experience that feels light, graceful,
-and easy to live with throughout the day.
+Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, 
+calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens 
+and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, 
+blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 
 ## Screenshots
 
@@ -142,24 +143,24 @@ and easy to live with throughout the day.
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/FCF4F7.png?width=30&height=30"></td>
       <td>Background</td>
-      <td>#E4ECEF</td>
+      <td>#FCF4F7</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/FFC9DC.png?width=30&height=30"></td>
       <td>Selection Background</td>
-      <td>#B6D8E5</td>
+      <td>#FFC9DC</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/C55EA5.png?width=30&height=30"></td>
       <td>Cursor</td>
-      <td>#467196</td>
+      <td>#C55EA5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/3D0013.png?width=30&height=30"></td>
       <td>Foreground</td>
-      <td>#0E3448</td>
+      <td>#3D0013</td>
    </tr>
 </table>
 

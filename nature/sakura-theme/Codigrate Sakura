@@ -1,0 +1,77 @@
+# Codigrate Sakura
+#
+# Category: Nature
+#
+# Description:
+# Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring.
+# Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary
+# accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden,
+# is designed to be easy on the eyes, aiding focus and efficient coding.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #FCF4F7
+foreground = #3D0013
+
+selection-background = #FFC9DC
+selection-foreground = #3D0013
+
+cursor-color = #C55EA5
+cursor-text = #FFFFFF
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#3D0013
+
+# Red
+palette = 1=#B54B66
+
+# Green
+palette = 2=#618C71
+
+# Yellow
+palette = 3=#C08C4C
+
+# Blue
+palette = 4=#607FA9
+
+# Magenta
+palette = 5=#875A9D
+
+# Cyan
+palette = 6=#69A2BD
+
+# White
+palette = 7=#FEFCFC
+
+# Bright
+
+# Bright Black
+palette = 8=#94667D
+
+# Bright Red
+palette = 9=#CB6B91
+
+# Bright Green
+palette = 10=#7F8D78
+
+# Bright Yellow
+palette = 11=#DCA35B
+
+# Bright Blue
+palette = 12=#6981BD
+
+# Bright Magenta
+palette = 13=#B46E8D
+
+# Bright Cyan
+palette = 14=#5B90A6
+
+# Bright White
+palette = 15=#FFFFFF
