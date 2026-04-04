@@ -1,0 +1,76 @@
+# Codigrate Miami
+#
+# Category: Cities
+#
+# Description:
+# Inspired by the electric nights and pastel sunsets of Miami, this dark theme fills Ghostty with bold purples,
+# vivid pinks, and warm neon energy. It creates a playful yet polished terminal experience with strong personality
+# and clear visual contrast.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #532033
+foreground = #D5C6CE
+
+selection-background = #722E47
+selection-foreground = #D5C6CE
+
+cursor-color = #E17CBF
+cursor-text = #270D16
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#1A1028
+
+# Red
+palette = 1=#FF5577
+
+# Green
+palette = 2=#5ECDA0
+
+# Yellow
+palette = 3=#FFD06B
+
+# Blue
+palette = 4=#6B8FFF
+
+# Magenta
+palette = 5=#D46BCC
+
+# Cyan
+palette = 6=#5BC8E8
+
+# White
+palette = 7=#D4C8E0
+
+# Bright
+
+# Bright Black
+palette = 8=#5A4870
+
+# Bright Red
+palette = 9=#FF7A99
+
+# Bright Green
+palette = 10=#7EDDB8
+
+# Bright Yellow
+palette = 11=#FFE08A
+
+# Bright Blue
+palette = 12=#8AABFF
+
+# Bright Magenta
+palette = 13=#E88AE0
+
+# Bright Cyan
+palette = 14=#7AD8F0
+
+# Bright White
+palette = 15=#F0E8F8
