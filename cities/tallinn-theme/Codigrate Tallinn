@@ -1,0 +1,76 @@
+# Codigrate Tallinn
+#
+# Category: Cities
+#
+# Description:
+# Inspired by Tallinn's crisp light and Baltic calm, this theme pairs cool porcelain tones with Nordic blues for a
+# terminal experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps everything fresh
+# and readable.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #D0DCEF
+foreground = #0C1E45
+
+selection-background = #BECCEC
+selection-foreground = #0C1E45
+
+cursor-color = #4D6FA2
+cursor-text = #FFFFFF
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#1A2E3A
+
+# Red
+palette = 1=#A84848
+
+# Green
+palette = 2=#4A8A6A
+
+# Yellow
+palette = 3=#B89840
+
+# Blue
+palette = 4=#3A6E9E
+
+# Magenta
+palette = 5=#7A5E8E
+
+# Cyan
+palette = 6=#2E7E8E
+
+# White
+palette = 7=#D4DDE2
+
+# Bright
+
+# Bright Black
+palette = 8=#5A7888
+
+# Bright Red
+palette = 9=#C86868
+
+# Bright Green
+palette = 10=#68A888
+
+# Bright Yellow
+palette = 11=#D4B258
+
+# Bright Blue
+palette = 12=#5A8EB8
+
+# Bright Magenta
+palette = 13=#9A7AA8
+
+# Bright Cyan
+palette = 14=#4A9EAA
+
+# Bright White
+palette = 15=#F0F4F6
