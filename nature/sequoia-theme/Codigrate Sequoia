@@ -1,0 +1,75 @@
+# Codigrate Sequoia
+#
+# Category: Nature
+#
+# Description:
+# Inspired by the towering presence and grounded calm of sequoias, this dark theme surrounds Ghostty with rich woodland
+# tones and subtle green life. It creates a focused, earthy atmosphere that feels steady, deep, and comfortably subdued.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #32382C
+foreground = #BABEBA
+
+selection-background = #405133
+selection-foreground = #BABEBA
+
+cursor-color = #0B7E63
+cursor-text = #0E0E0E
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#2E3D2C
+
+# Red
+palette = 1=#C75C5D
+
+# Green
+palette = 2=#6B9E5A
+
+# Yellow
+palette = 3=#C9A04E
+
+# Blue
+palette = 4=#5E8AB4
+
+# Magenta
+palette = 5=#A67BA5
+
+# Cyan
+palette = 6=#5A9E8F
+
+# White
+palette = 7=#C4CCBA
+
+# Bright
+
+# Bright Black
+palette = 8=#5C6E58
+
+# Bright Red
+palette = 9=#E07172
+
+# Bright Green
+palette = 10=#8BBF78
+
+# Bright Yellow
+palette = 11=#E0B86A
+
+# Bright Blue
+palette = 12=#7BA4CC
+
+# Bright Magenta
+palette = 13=#C09ABF
+
+# Bright Cyan
+palette = 14=#78BBA9
+
+# Bright White
+palette = 15=#E2E8DA

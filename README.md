@@ -187,24 +187,24 @@ tones and subtle green life. It creates a focused, earthy atmosphere that feels 
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/32382C.png?width=30&height=30"></td>
       <td>Background</td>
-      <td>#E4ECEF</td>
+      <td>#32382C</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/405133.png?width=30&height=30"></td>
       <td>Selection Background</td>
-      <td>#B6D8E5</td>
+      <td>#405133</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/0B7E63.png?width=30&height=30"></td>
       <td>Cursor</td>
-      <td>#467196</td>
+      <td>#0B7E63</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/BABEBA.png?width=30&height=30"></td>
       <td>Foreground</td>
-      <td>#0E3448</td>
+      <td>#BABEBA</td>
    </tr>
 </table>
 
