@@ -1,0 +1,76 @@
+# Codigrate Istanbul
+#
+# Category: Cities
+#
+# Description:
+# Inspired by the soft daylight and sea breezes of Istanbul, this theme brings airy turquoise tones and warm historical
+# accents into Ghostty. It feels fresh, calm, and expressive, offering a refined terminal atmosphere with a distinct
+# coastal elegance.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #DBF0F1
+foreground = #083A41
+
+selection-background = #A3DDE5
+selection-foreground = #083A41
+
+cursor-color = #42858E
+cursor-text = #FFFFFF
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#1A3040
+
+# Red
+palette = 1=#B54A4A
+
+# Green
+palette = 2=#4A8C6A
+
+# Yellow
+palette = 3=#C49A3C
+
+# Blue
+palette = 4=#3A7CA5
+
+# Magenta
+palette = 5=#8A5E9A
+
+# Cyan
+palette = 6=#2E8B9A
+
+# White
+palette = 7=#E4ECF0
+
+# Bright
+
+# Bright Black
+palette = 8=#5A7A8A
+
+# Bright Red
+palette = 9=#D06868
+
+# Bright Green
+palette = 10=#68A888
+
+# Bright Yellow
+palette = 11=#DEAE52
+
+# Bright Blue
+palette = 12=#5A9ABF
+
+# Bright Magenta
+palette = 13=#A87AB4
+
+# Bright Cyan
+palette = 14=#4AABB8
+
+# Bright White
+palette = 15=#F5F9FB

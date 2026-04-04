@@ -320,24 +320,24 @@ accents into Ghostty. It feels fresh, calm, and expressive, offering a refined t
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/DBF0F1.png?width=30&height=30"></td>
       <td>Background</td>
-      <td>#E4ECEF</td>
+      <td>#DBF0F1</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/A3DDE5.png?width=30&height=30"></td>
       <td>Selection Background</td>
-      <td>#B6D8E5</td>
+      <td>#A3DDE5</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/42858E.png?width=30&height=30"></td>
       <td>Cursor</td>
-      <td>#467196</td>
+      <td>#42858E</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/083A41.png?width=30&height=30"></td>
       <td>Foreground</td>
-      <td>#0E3448</td>
+      <td>#083A41</td>
    </tr>
 </table>
 
