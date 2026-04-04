@@ -1,0 +1,75 @@
+# Codigrate Paris
+#
+# Category: Cities
+#
+# Description:
+# Inspired by candlelit cafes, stone boulevards, and Paris's late-night glow, this theme brings dusky rose,
+# plum-espresso depth, and soft blush accents into Ghostty. It feels romantic, moody, and elegant without
+# losing clarity.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #3F3033
+foreground = #E8D8DA
+selection-background = #644A4D
+selection-foreground = #E8D8DA
+
+cursor-color = #C88C95
+cursor-text = #131010
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#1A1218
+
+# Red
+palette = 1=#C75C6A
+
+# Green
+palette = 2=#7A9E6A
+
+# Yellow
+palette = 3=#D4A04A
+
+# Blue
+palette = 4=#6A7EB4
+
+# Magenta
+palette = 5=#B46A9E
+
+# Cyan
+palette = 6=#5A8E9E
+
+# White
+palette = 7=#C8BCC4
+
+# Bright
+
+# Bright Black
+palette = 8=#5C4A58
+
+# Bright Red
+palette = 9=#E07888
+
+# Bright Green
+palette = 10=#98BF88
+
+# Bright Yellow
+palette = 11=#E8B862
+
+# Bright Blue
+palette = 12=#8A9ACC
+
+# Bright Magenta
+palette = 13=#D08AB8
+
+# Bright Cyan
+palette = 14=#78AAB8
+
+# Bright White
+palette = 15=#E8D8E0
