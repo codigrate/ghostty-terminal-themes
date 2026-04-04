@@ -541,24 +541,24 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/2A3051.png?width=30&height=30"></td>
       <td>Background</td>
-      <td>#E4ECEF</td>
+      <td>#2A3051</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/354172.png?width=30&height=30"></td>
       <td>Selection Background</td>
-      <td>#B6D8E5</td>
+      <td>#354172</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/939ED3.png?width=30&height=30"></td>
       <td>Cursor</td>
-      <td>#467196</td>
+      <td>#939ED3</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/AEB2C3.png?width=30&height=30"></td>
       <td>Foreground</td>
-      <td>#0E3448</td>
+      <td>#AEB2C3</td>
    </tr>
 </table>
 

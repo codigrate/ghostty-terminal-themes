@@ -1,0 +1,76 @@
+# Codigrate Tokyo
+#
+# Category: Cities
+#
+# Description:
+# Inspired by Tokyo's neon-lit streets and midnight skyline, this theme surrounds Ghostty with deep indigo tones,
+# electric violets, and cool luminous accents. It feels sleek, atmospheric, and distinctly futuristic while staying
+# polished.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #2A3051
+foreground = #AEB2C3
+
+selection-background = #354172
+selection-foreground = #AEB2C3
+
+cursor-color = #939ED3
+cursor-text = #0C0F1C
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#12122A
+
+# Red
+palette = 1=#E05070
+
+# Green
+palette = 2=#5AC8A0
+
+# Yellow
+palette = 3=#E0C060
+
+# Blue
+palette = 4=#5A7AE0
+
+# Magenta
+palette = 5=#B060D0
+
+# Cyan
+palette = 6=#50B0D0
+
+# White
+palette = 7=#B8B8D0
+
+# Bright
+
+# Bright Black
+palette = 8=#4A4A6E
+
+# Bright Red
+palette = 9=#F07090
+
+# Bright Green
+palette = 10=#78E0B8
+
+# Bright Yellow
+palette = 11=#F0D878
+
+# Bright Blue
+palette = 12=#7A9AF0
+
+# Bright Magenta
+palette = 13=#D080E8
+
+# Bright Cyan
+palette = 14=#70C8E8
+
+# Bright White
+palette = 15=#E0E0F0
