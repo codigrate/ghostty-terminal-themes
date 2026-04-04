@@ -409,24 +409,24 @@ and clean blues to create a light, refreshing Ghostty experience that feels live
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/E4ECEF.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/DAEAD6.png?width=30&height=30"></td>
       <td>Background</td>
-      <td>#E4ECEF</td>
+      <td>#DAEAD6</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/B6D8E5.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/B3DEA9.png?width=30&height=30"></td>
       <td>Selection Background</td>
-      <td>#B6D8E5</td>
+      <td>#B3DEA9</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/467196.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/4A873F.png?width=30&height=30"></td>
       <td>Cursor</td>
-      <td>#467196</td>
+      <td>#4A873F</td>
    </tr>
    <tr>
-      <td><img src="https://codigrate.com/util/color/0E3448.png?width=30&height=30"></td>
+      <td><img src="https://codigrate.com/util/color/143F08.png?width=30&height=30"></td>
       <td>Foreground</td>
-      <td>#0E3448</td>
+      <td>#143F08</td>
    </tr>
 </table>
 

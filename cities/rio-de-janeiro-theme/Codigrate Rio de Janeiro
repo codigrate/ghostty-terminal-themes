@@ -1,0 +1,75 @@
+# Codigrate Rio de Janeiro
+#
+# Category: Cities
+#
+# Description:
+# Inspired by Rio's lush hills, bright air, and coastal energy, this theme blends soft minty tones with vibrant greens
+# and clean blues to create a light, refreshing Ghostty experience that feels lively, open, and balanced.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #DAEAD6
+foreground = #143F08
+
+selection-background = #B3DEA9
+selection-foreground = #143F08
+
+cursor-color = #4A873F
+cursor-text = #FFFFFF
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#1A3A2A
+
+# Red
+palette = 1=#C45A4A
+
+# Green
+palette = 2=#3A9E5E
+
+# Yellow
+palette = 3=#C4A03C
+
+# Blue
+palette = 4=#3A7EB5
+
+# Magenta
+palette = 5=#8A5E9A
+
+# Cyan
+palette = 6=#2A8E8E
+
+# White
+palette = 7=#E0EDE6
+
+# Bright
+
+# Bright Black
+palette = 8=#5A7A6A
+
+# Bright Red
+palette = 9=#E07060
+
+# Bright Green
+palette = 10=#58B87A
+
+# Bright Yellow
+palette = 11=#DEBA52
+
+# Bright Blue
+palette = 12=#5A9ACE
+
+# Bright Magenta
+palette = 13=#A87AB4
+
+# Bright Cyan
+palette = 14=#48AAA8
+
+# Bright White
+palette = 15=#F2FAF6
