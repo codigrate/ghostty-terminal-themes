@@ -27,7 +27,7 @@ cursor-text = #FFFFFF
 # Standard
 
 # Black
-palette = 0=#88959C
+palette = 0=#25323A
 
 # Red
 palette = 1=#8F4446
@@ -48,12 +48,12 @@ palette = 5=#83529B
 palette = 6=#005E79
 
 # White
-palette = 7=#25323A
+palette = 7=#88959C
 
 # Bright
 
 # Bright Black
-palette = 8=#A4B1B8
+palette = 8=#3A4A54
 
 # Bright Red
 palette = 9=#B25B57
@@ -74,4 +74,4 @@ palette = 13=#9E6AB3
 palette = 14=#0A7C92
 
 # Bright White
-palette = 15=#3A4A54
+palette = 15=#A4B1B8
