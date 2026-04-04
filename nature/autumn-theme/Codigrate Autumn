@@ -1,0 +1,76 @@
+# Codigrate Autumn
+#
+# Category: Nature
+#
+# Description:
+# Inspired by the warm hues and rustic charm of autumn, this light theme brings soft seasonal comfort to Ghostty.
+# Earthy oranges, mellow neutrals, and crisp contrast create a cozy terminal space that feels welcoming, balanced,
+# and quietly expressive.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #F8F4F1
+foreground = #2E1B0F
+
+selection-background = #F4D3BD
+selection-foreground = #2E1B0F
+
+cursor-color = #6B9A24
+cursor-text = #FFFFFF
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#3B2718
+
+# Red
+palette = 1=#B54B3A
+
+# Green
+palette = 2=#6B8C42
+
+# Yellow
+palette = 3=#C08C4C
+
+# Blue
+palette = 4=#5E7A9E
+
+# Magenta
+palette = 5=#9B6B8A
+
+# Cyan
+palette = 6=#5A8E7A
+
+# White
+palette = 7=#EDE3D6
+
+# Bright
+
+# Bright Black
+palette = 8=#7A6455
+
+# Bright Red
+palette = 9=#D06B52
+
+# Bright Green
+palette = 10=#8AAD5E
+
+# Bright Yellow
+palette = 11=#DCA35B
+
+# Bright Blue
+palette = 12=#7A96B4
+
+# Bright Magenta
+palette = 13=#B888A0
+
+# Bright Cyan
+palette = 14=#78AA94
+
+# Bright White
+palette = 15=#F5EDE4
