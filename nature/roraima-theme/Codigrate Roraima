@@ -1,0 +1,76 @@
+# Codigrate Roraima
+#
+# Category: Nature
+#
+# Description:
+# Inspired by the dramatic sunset over Mount Roraima, this dark theme blends dusky purples, ember-like oranges,
+# and twilight shadows into a bold yet balanced terminal palette. It brings warmth, depth, and a cinematic sense
+# of atmosphere to everyday command line work.
+#
+# For more information about the color theory behind:
+# https://codigrate.com
+
+# --- Interface colors ---
+
+background = #322628
+foreground = #CEC1C1
+
+selection-background = #5A261E
+selection-foreground = #CEC1C1
+
+cursor-color = #DF6F50
+cursor-text = #171415
+
+# --- ANSI 16-color palette ---
+
+# Standard
+
+# Black
+palette = 0=#1A1220
+
+# Red
+palette = 1=#C75C5D
+
+# Green
+palette = 2=#7A9E5A
+
+# Yellow
+palette = 3=#D4954A
+
+# Blue
+palette = 4=#6E7EB4
+
+# Magenta
+palette = 5=#A86B9E
+
+# Cyan
+palette = 6=#5A8E9E
+
+# White
+palette = 7=#C8B8C4
+
+# Bright
+
+# Bright Black
+palette = 8=#5C4A62
+
+# Bright Red
+palette = 9=#E07172
+
+# Bright Green
+palette = 10=#98BF78
+
+# Bright Yellow
+palette = 11=#E8AD62
+
+# Bright Blue
+palette = 12=#8A9ACC
+
+# Bright Magenta
+palette = 13=#C48AB8
+
+# Bright Cyan
+palette = 14=#78AAB8
+
+# Bright White
+palette = 15=#E4D8E0
