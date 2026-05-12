@@ -3,74 +3,78 @@
 # Category: Nature
 #
 # Description:
-# Inspired by the enchanting softness of Sakura blossoms, this theme brings a delicate spring atmosphere to Ghostty.
-# Gentle pinks and muted complementary tones create a serene, polished terminal experience that feels light, graceful,
-# and easy to live with throughout the day.
+# Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence
+# of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues
+# act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene,
+# blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #FCF4F7
-foreground = #3D0013
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #FEFCFC
+foreground = #29000D
 
-selection-background = #FFC9DC
-selection-foreground = #3D0013
+selection-background = #E7CFDF
+selection-foreground = #29000D
 
 cursor-color = #C55EA5
 cursor-text = #FFFFFF
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#3D0013
+palette = 0=#4F2D38
 
 # Red
-palette = 1=#B54B66
+palette = 1=#618C71
 
 # Green
-palette = 2=#618C71
+palette = 2=#875A9D
 
 # Yellow
-palette = 3=#C08C4C
+palette = 3=#B46E8D
 
 # Blue
 palette = 4=#607FA9
 
 # Magenta
-palette = 5=#875A9D
+palette = 5=#98556C
 
 # Cyan
-palette = 6=#69A2BD
+palette = 6=#CB6B91
 
 # White
-palette = 7=#FEFCFC
+palette = 7=#B3A7AB
 
 # Bright
 
 # Bright Black
-palette = 8=#94667D
+palette = 8=#897179
 
 # Bright Red
-palette = 9=#CB6B91
+palette = 9=#679076
 
 # Bright Green
-palette = 10=#7F8D78
+palette = 10=#8B60A0
 
 # Bright Yellow
-palette = 11=#DCA35B
+palette = 11=#B77391
 
 # Bright Blue
-palette = 12=#6981BD
+palette = 12=#6683AC
 
 # Bright Magenta
-palette = 13=#B46E8D
+palette = 13=#9C5B71
 
 # Bright Cyan
-palette = 14=#5B90A6
+palette = 14=#CD7095
 
 # Bright White
-palette = 15=#FFFFFF
+palette = 15=#FEFDFD

@@ -3,74 +3,77 @@
 # Category: Cities
 #
 # Description:
-# Inspired by Tallinn's crisp light and Baltic calm, this theme pairs cool porcelain tones with Nordic blues for a
-# terminal experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps everything fresh
-# and readable.
+# Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool
+# Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep
+# ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #D0DCEF
-foreground = #0C1E45
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #EDF2FA
+foreground = #0C172B
 
-selection-background = #BECCEC
-selection-foreground = #0C1E45
+selection-background = #B7C3E3
+selection-foreground = #0C172B
 
 cursor-color = #4D6FA2
 cursor-text = #FFFFFF
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#1A2E3A
+palette = 0=#353E50
 
 # Red
-palette = 1=#A84848
+palette = 1=#1E7857
 
 # Green
-palette = 2=#4A8A6A
+palette = 2=#81549C
 
 # Yellow
-palette = 3=#B89840
+palette = 3=#8E6433
 
 # Blue
-palette = 4=#3A6E9E
+palette = 4=#377CC1
 
 # Magenta
-palette = 5=#7A5E8E
+palette = 5=#425EB8
 
 # Cyan
-palette = 6=#2E7E8E
+palette = 6=#B6564B
 
 # White
-palette = 7=#D4DDE2
+palette = 7=#A0A7B1
 
 # Bright
 
 # Bright Black
-palette = 8=#5A7888
+palette = 8=#717A88
 
 # Bright Red
-palette = 9=#C86868
+palette = 9=#267D5D
 
 # Bright Green
-palette = 10=#68A888
+palette = 10=#855A9F
 
 # Bright Yellow
-palette = 11=#D4B258
+palette = 11=#92693A
 
 # Bright Blue
-palette = 12=#5A8EB8
+palette = 12=#3E81C3
 
 # Bright Magenta
-palette = 13=#9A7AA8
+palette = 13=#4964BA
 
 # Bright Cyan
-palette = 14=#4A9EAA
+palette = 14=#B95C51
 
 # Bright White
-palette = 15=#F0F4F6
+palette = 15=#F5F7FC

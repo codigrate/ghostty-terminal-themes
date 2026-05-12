@@ -13,65 +13,68 @@
 
 # --- Interface colors ---
 
-background = #183240
-foreground = #B0B9BE
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #142B37
+foreground = #E0E2E3
 
-selection-background = #214051
-selection-foreground = #B0B9BE
+selection-background = #643C59
+selection-foreground = #E0E2E3
 
 cursor-color = #8DC5E1
 cursor-text = #112733
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#38505E
+palette = 0=#0C1920
 
 # Red
-palette = 1=#C75C5D
+palette = 1=#05C0A6
 
 # Green
-palette = 2=#05C0A6
+palette = 2=#549EFF
 
 # Yellow
-palette = 3=#CC9D57
+palette = 3=#79BDC0
 
 # Blue
-palette = 4=#549EFF
+palette = 4=#7ACEF5
 
 # Magenta
 palette = 5=#BB719B
 
 # Cyan
-palette = 6=#7AC6F5
+palette = 6=#BAA5FF
 
 # White
-palette = 7=#B0B9BE
+palette = 7=#C8CCCE
 
 # Bright
 
 # Bright Black
-palette = 8=#6B808C
+palette = 8=#55666E
 
 # Bright Red
-palette = 9=#E07172
+palette = 9=#19C5AD
 
 # Bright Green
-palette = 10=#18D8BC
+palette = 10=#62A6FF
 
 # Bright Yellow
-palette = 11=#E6B86F
+palette = 11=#84C2C5
 
 # Bright Blue
-palette = 12=#7DB7FF
+palette = 12=#85D2F6
 
 # Bright Magenta
-palette = 13=#D193BB
+palette = 13=#C07CA3
 
 # Bright Cyan
-palette = 14=#8DC5E1
+palette = 14=#C0ACFF
 
 # Bright White
-palette = 15=#E0E0E0
+palette = 15=#DDE0E3

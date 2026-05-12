@@ -3,74 +3,77 @@
 # Category: Cities
 #
 # Description:
-# Inspired by the electric nights and pastel sunsets of Miami, this dark theme fills Ghostty with bold purples,
-# vivid pinks, and warm neon energy. It creates a playful yet polished terminal experience with strong personality
-# and clear visual contrast.
+# Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant
+# neon accents to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor,
+# while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #532033
-foreground = #D5C6CE
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #33121D
+foreground = #D8D3D4
 
-selection-background = #722E47
-selection-foreground = #D5C6CE
+selection-background = #5D224D
+selection-foreground = #D8D3D4
 
 cursor-color = #E17CBF
 cursor-text = #270D16
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#1A1028
+palette = 0=#1E0A11
 
 # Red
-palette = 1=#FF5577
+palette = 1=#82D59F
 
 # Green
-palette = 2=#5ECDA0
+palette = 2=#F1CB70
 
 # Yellow
-palette = 3=#FFD06B
+palette = 3=#8CD379
 
 # Blue
-palette = 4=#6B8FFF
+palette = 4=#FE8078
 
 # Magenta
-palette = 5=#D46BCC
+palette = 5=#F2A4A0
 
 # Cyan
-palette = 6=#5BC8E8
+palette = 6=#00D1C1
 
 # White
-palette = 7=#D4C8E0
+palette = 7=#C4BCBE
 
 # Bright
 
 # Bright Black
-palette = 8=#5A4870
+palette = 8=#685058
 
 # Bright Red
-palette = 9=#FF7A99
+palette = 9=#8CD8A7
 
 # Bright Green
-palette = 10=#7EDDB8
+palette = 10=#F2CF7B
 
 # Bright Yellow
-palette = 11=#FFE08A
+palette = 11=#95D784
 
 # Bright Blue
-palette = 12=#8AABFF
+palette = 12=#FE8A83
 
 # Bright Magenta
-palette = 13=#E88AE0
+palette = 13=#F3ABA8
 
 # Bright Cyan
-palette = 14=#7AD8F0
+palette = 14=#14D5C6
 
 # Bright White
-palette = 15=#F0E8F8
+palette = 15=#D6CFD1

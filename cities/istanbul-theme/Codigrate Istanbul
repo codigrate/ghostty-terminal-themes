@@ -3,74 +3,78 @@
 # Category: Cities
 #
 # Description:
-# Inspired by the soft daylight and sea breezes of Istanbul, this theme brings airy turquoise tones and warm historical
-# accents into Ghostty. It feels fresh, calm, and expressive, offering a refined terminal atmosphere with a distinct
-# coastal elegance.
+# Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm
+# historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the
+# editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential
+# syntax elements.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #DBF0F1
-foreground = #083A41
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #FAFDFD
+foreground = #05272C
 
-selection-background = #A3DDE5
-selection-foreground = #083A41
+selection-background = #BADFDE
+selection-foreground = #05272C
 
 cursor-color = #42858E
 cursor-text = #FFFFFF
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#1A3040
+palette = 0=#314E52
 
 # Red
-palette = 1=#B54A4A
+palette = 1=#3E64C5
 
 # Green
-palette = 2=#4A8C6A
+palette = 2=#0887B5
 
 # Yellow
-palette = 3=#C49A3C
+palette = 3=#9C6E7C
 
 # Blue
-palette = 4=#3A7CA5
+palette = 4=#AA784F
 
 # Magenta
-palette = 5=#8A5E9A
+palette = 5=#1190A1
 
 # Cyan
-palette = 6=#2E8B9A
+palette = 6=#B8514D
 
 # White
-palette = 7=#E4ECF0
+palette = 7=#A7B2B3
 
 # Bright
 
 # Bright Black
-palette = 8=#5A7A8A
+palette = 8=#73878A
 
 # Bright Red
-palette = 9=#D06868
+palette = 9=#4569C7
 
 # Bright Green
-palette = 10=#68A888
+palette = 10=#118BB8
 
 # Bright Yellow
-palette = 11=#DEAE52
+palette = 11=#9F7381
 
 # Bright Blue
-palette = 12=#5A9ABF
+palette = 12=#AD7D55
 
 # Bright Magenta
-palette = 13=#A87AB4
+palette = 13=#1994A4
 
 # Bright Cyan
-palette = 14=#4AABB8
+palette = 14=#BA5753
 
 # Bright White
-palette = 15=#F5F9FB
+palette = 15=#FCFEFE

@@ -3,74 +3,78 @@
 # Category: Cities
 #
 # Description:
-# Inspired by Tokyo's neon-lit streets and midnight skyline, this theme surrounds Ghostty with deep indigo tones,
-# electric violets, and cool luminous accents. It feels sleek, atmospheric, and distinctly futuristic while staying
-# polished.
+# Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme
+# blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere.
+# Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add
+# clarity and energy to key syntax elements.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #2A3051
-foreground = #AEB2C3
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #1A1F35
+foreground = #D6D6DA
 
-selection-background = #354172
-selection-foreground = #AEB2C3
+selection-background = #5E3061
+selection-foreground = #D6D6DA
 
 cursor-color = #939ED3
 cursor-text = #0C0F1C
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#12122A
+palette = 0=#0F121F
 
 # Red
-palette = 1=#E05070
+palette = 1=#5CC19D
 
 # Green
-palette = 2=#5AC8A0
+palette = 2=#5DC8D6
 
 # Yellow
-palette = 3=#E0C060
+palette = 3=#DC9DA6
 
 # Blue
-palette = 4=#5A7AE0
+palette = 4=#ECA1EB
 
 # Magenta
-palette = 5=#B060D0
+palette = 5=#7B89C8
 
 # Cyan
-palette = 6=#50B0D0
+palette = 6=#DD9B7F
 
 # White
-palette = 7=#B8B8D0
+palette = 7=#BFC0C6
 
 # Bright
 
 # Bright Black
-palette = 8=#4A4A6E
+palette = 8=#565A6A
 
 # Bright Red
-palette = 9=#F07090
+palette = 9=#69C6A5
 
 # Bright Green
-palette = 10=#78E0B8
+palette = 10=#6ACCD9
 
 # Bright Yellow
-palette = 11=#F0D878
+palette = 11=#DFA5AD
 
 # Bright Blue
-palette = 12=#7A9AF0
+palette = 12=#EEA9ED
 
 # Bright Magenta
-palette = 13=#D080E8
+palette = 13=#8692CC
 
 # Bright Cyan
-palette = 14=#70C8E8
+palette = 14=#E0A389
 
 # Bright White
-palette = 15=#E0E0F0
+palette = 15=#D8D8DC

@@ -3,74 +3,78 @@
 # Category: Nature
 #
 # Description:
-# Inspired by the warm hues and rustic charm of autumn, this light theme brings soft seasonal comfort to Ghostty.
-# Earthy oranges, mellow neutrals, and crisp contrast create a cozy terminal space that feels welcoming, balanced,
-# and quietly expressive.
+# Inspired by the warm hues and rustic feel of the autumn, this light theme aims to evoke a sense of
+# comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of
+# fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus
+# and productivity.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #F8F4F1
-foreground = #2E1B0F
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #FCFBFA
+foreground = #251B13
 
-selection-background = #F4D3BD
-selection-foreground = #2E1B0F
+selection-background = #DFEFCB
+selection-foreground = #251B13
 
 cursor-color = #6B9A24
 cursor-text = #FFFFFF
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#3B2718
+palette = 0=#4C433D
 
 # Red
-palette = 1=#B54B3A
+palette = 1=#0E8113
 
 # Green
-palette = 2=#6B8C42
+palette = 2=#1B591E
 
 # Yellow
-palette = 3=#C08C4C
+palette = 3=#773918
 
 # Blue
-palette = 4=#5E7A9E
+palette = 4=#A87F25
 
 # Magenta
-palette = 5=#9B6B8A
+palette = 5=#006E83
 
 # Cyan
-palette = 6=#5A8E7A
+palette = 6=#B0633A
 
 # White
-palette = 7=#EDE3D6
+palette = 7=#B1ADAB
 
 # Bright
 
 # Bright Black
-palette = 8=#7A6455
+palette = 8=#86807B
 
 # Bright Red
-palette = 9=#D06B52
+palette = 9=#16851B
 
 # Bright Green
-palette = 10=#8AAD5E
+palette = 10=#235F26
 
 # Bright Yellow
-palette = 11=#DCA35B
+palette = 11=#7C4020
 
 # Bright Blue
-palette = 12=#7A96B4
+palette = 12=#AB832D
 
 # Bright Magenta
-palette = 13=#B888A0
+palette = 13=#097387
 
 # Bright Cyan
-palette = 14=#78AA94
+palette = 14=#B36841
 
 # Bright White
-palette = 15=#F5EDE4
+palette = 15=#FDFDFC

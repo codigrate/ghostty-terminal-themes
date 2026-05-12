@@ -3,74 +3,78 @@
 # Category: Nature
 #
 # Description:
-# Inspired by the dramatic sunset over Mount Roraima, this dark theme blends dusky purples, ember-like oranges,
-# and twilight shadows into a bold yet balanced terminal palette. It brings warmth, depth, and a cinematic sense
-# of atmosphere to everyday command line work.
+# Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight
+# hues of blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of
+# Roraima as day transitions to night, this balanced palette offers a soothing yet invigorating backdrop,
+# ensuring an optimal and focused coding experience.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #322628
-foreground = #CEC1C1
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #1E1A1B
+foreground = #D0CCCD
 
-selection-background = #5A261E
-selection-foreground = #CEC1C1
+selection-background = #562F2F
+selection-foreground = #D0CCCD
 
 cursor-color = #DF6F50
 cursor-text = #171415
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#1A1220
+palette = 0=#110F10
 
 # Red
-palette = 1=#C75C5D
+palette = 1=#8F78B7
 
 # Green
-palette = 2=#7A9E5A
+palette = 2=#DDBE6D
 
 # Yellow
-palette = 3=#D4954A
+palette = 3=#D1BA46
 
 # Blue
-palette = 4=#6E7EB4
+palette = 4=#D69568
 
 # Magenta
-palette = 5=#A86B9E
+palette = 5=#D17458
 
 # Cyan
-palette = 6=#5A8E9E
+palette = 6=#F4BF94
 
 # White
-palette = 7=#C8B8C4
+palette = 7=#BBB7B8
 
 # Bright
 
 # Bright Black
-palette = 8=#5C4A62
+palette = 8=#575354
 
 # Bright Red
-palette = 9=#E07172
+palette = 9=#9883BD
 
 # Bright Green
-palette = 10=#98BF78
+palette = 10=#E0C379
 
 # Bright Yellow
-palette = 11=#E8AD62
+palette = 11=#D5C055
 
 # Bright Blue
-palette = 12=#8A9ACC
+palette = 12=#D99D74
 
 # Bright Magenta
-palette = 13=#C48AB8
+palette = 13=#D57F65
 
 # Bright Cyan
-palette = 14=#78AAB8
+palette = 14=#F5C49D
 
 # Bright White
-palette = 15=#E4D8E0
+palette = 15=#D1D1D1

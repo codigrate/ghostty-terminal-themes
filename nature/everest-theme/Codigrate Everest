@@ -3,75 +3,77 @@
 # Category: Nature
 #
 # Description:
-# Inspired by the majestic heights and serene landscapes of Mount Everest,
-# this light theme aims to provide a calming and focused coding environment.
-# The soft blues and grays mimic the icy terrains, while subtle hints of warmer
-# colors evoke the golden hues of dawn breaking over snow-capped peaks.
+# Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a
+# calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints
+# of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.
 #
 # For more information about the color theory behind:
 # https://codigrate.com
 
 # --- Interface colors ---
 
-background = #E4ECEF
-foreground = #0E3448
+# Background uses editorBackground first because Ghostty is a reading surface.
+background = #FDFEFF
+foreground = #131B25
 
-selection-background = #B6D8E5
-selection-foreground = #0E3448
+selection-background = #D5ECE2
+selection-foreground = #131B25
 
 cursor-color = #467196
 cursor-text = #FFFFFF
 
 # --- ANSI 16-color palette ---
+# ANSI colors are mapped directly from fixed JetBrains semantic fields.
+# Bright ANSI colors are slightly brighter versions of the base ANSI colors.
 
 # Standard
 
 # Black
-palette = 0=#25323A
+palette = 0=#3D444C
 
 # Red
-palette = 1=#8F4446
+palette = 1=#1A6D9F
 
 # Green
-palette = 2=#2E674F
+palette = 2=#005E79
 
 # Yellow
-palette = 3=#C08C4C
+palette = 3=#A64825
 
 # Blue
-palette = 4=#1A6D9F
+palette = 4=#007A47
 
 # Magenta
-palette = 5=#83529B
+palette = 5=#2E674F
 
 # Cyan
-palette = 6=#005E79
+palette = 6=#8F4446
 
 # White
-palette = 7=#88959C
+palette = 7=#ADAFB3
 
 # Bright
 
 # Bright Black
-palette = 8=#3A4A54
+palette = 8=#7C8187
 
 # Bright Red
-palette = 9=#B25B57
+palette = 9=#2272A2
 
 # Bright Green
-palette = 10=#3C8A6A
+palette = 10=#09647E
 
 # Bright Yellow
-palette = 11=#DCA35B
+palette = 11=#A94E2D
 
 # Bright Blue
-palette = 12=#2C7FB3
+palette = 12=#097F4D
 
 # Bright Magenta
-palette = 13=#9E6AB3
+palette = 13=#356C55
 
 # Bright Cyan
-palette = 14=#0A7C92
+palette = 14=#934B4C
 
 # Bright White
-palette = 15=#A4B1B8
+palette = 15=#FEFEFF
