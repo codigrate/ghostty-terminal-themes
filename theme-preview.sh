@@ -14,6 +14,9 @@
 # This script simulates code-like highlighting with ANSI 0-15 colors,
 # so you can judge how your terminal palette feels in real code blocks.
 
+SCRIPT_PATH="$(cd "$(dirname "$0")" && pwd)/$(basename "$0")"
+THEMES_ROOT="$(cd "$(dirname "$0")" && pwd)"
+
 RESET="\033[0m"
 BOLD="\033[1m"
 DIM="\033[2m"
@@ -155,6 +158,95 @@ run_choice() {
     *) echo "Invalid selection." ;;
   esac
 }
+
+find_theme_file() {
+  # Accepts a theme name (with or without the "Codigrate " prefix) or a path, and echoes the
+  # matching Ghostty theme file (the extensionless "Codigrate <Name>" file in its theme folder).
+  local query="$1"
+
+  if [[ -f "$query" ]]; then
+    printf "%s\n" "$query"
+    return 0
+  fi
+
+  local base
+  base="$(basename "$query")"
+
+  find "$THEMES_ROOT/nature" "$THEMES_ROOT/cities" -type f -name "Codigrate *" ! -name "*.png" 2>/dev/null \
+    | while IFS= read -r f; do
+        local name
+        name="$(basename "$f")"
+        if [[ "$name" == "$base" || "$name" == "Codigrate $base" || "$name" == *"$base" ]]; then
+          printf "%s\n" "$f"
+        fi
+      done | head -n 1
+}
+
+open_theme() {
+  # Opens a Ghostty window painted with the theme, sized like every screenshot in this repo
+  # (222x63), titled like them, and renders the full preview inside it - ready to screenshot
+  # (Cmd+Shift+4, Space, click the window). Nothing in your Ghostty config changes: the theme,
+  # the size, the title and the command are passed on the command line of a new Ghostty instance.
+  local file="$1"
+
+  if [[ -z "$file" || ! -f "$file" ]]; then
+    printf "Theme file not found.\n" >&2
+    return 1
+  fi
+
+  local title
+  title="...$(printf "%s" "$THEMES_ROOT" | sed -E 's#^.*(/Documents/GitHub/[^/]+)$#\1#')"
+
+  open -na Ghostty --args \
+    --theme="$file" \
+    --working-directory="$THEMES_ROOT" \
+    --window-width=222 \
+    --window-height=63 \
+    --title="$title" \
+    --command="bash -c 'clear; bash \"$SCRIPT_PATH\" --full; read -r _'"
+}
+
+open_all() {
+  local files=()
+  while IFS= read -r f; do files+=("$f"); done < <(
+    find "$THEMES_ROOT/nature" "$THEMES_ROOT/cities" -type f -name "Codigrate *" ! -name "*.png" 2>/dev/null | sort
+  )
+
+  if [[ ${#files[@]} -eq 0 ]]; then
+    printf "No theme files found under %s\n" "$THEMES_ROOT" >&2
+    return 1
+  fi
+
+  printf "Opening %d themes - screenshot each window, then press Enter for the next.\n\n" "${#files[@]}"
+  for f in "${files[@]}"; do
+    printf "-> %s\n" "$(basename "$f")"
+    open_theme "$f"
+    printf "   Screenshot the window, then press Enter to continue... "
+    read -r _
+  done
+  printf "\nDone.\n"
+}
+
+usage() {
+  cat <<USAGE
+Codigrate Ghostty Theme Preview
+
+  bash theme-preview.sh                 the preview menu in this window
+  bash theme-preview.sh --full          render the full preview in this window
+  bash theme-preview.sh --open "<name>" open Ghostty with a theme + preview (222x63)
+  bash theme-preview.sh --all           step through every theme (for screenshots)
+
+Examples:
+  bash theme-preview.sh --open "Codigrate London"
+  bash theme-preview.sh --open "Tokyo"
+USAGE
+}
+
+case "${1:-}" in
+  --open)  open_theme "$(find_theme_file "${2:-}")"; exit 0 ;;
+  --all)   open_all; exit 0 ;;
+  -h|--help) usage; exit 0 ;;
+esac
 
 if [[ "${1:-}" == "--full" ]]; then
   full_preview
