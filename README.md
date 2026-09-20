@@ -17,10 +17,10 @@ these themes aim to make your command line experience visually inspiring and ple
 ## Getting Started
 
 1. Install **Ghostty** on your system.
-2. Copy the theme file you want to use into your Ghostty themes or configuration directory.
-3. Open your Ghostty configuration file.
-4. Set your active theme to **the name of the theme**.
-5. Restart Ghostty or reload the configuration to apply the changes.
+2. Copy the theme file you want to use into your Ghostty themes folder, `~/.config/ghostty/themes/` (the same path on macOS and Linux), keeping its name as is. If the folder is not there yet, create it in a terminal: `mkdir -p ~/.config/ghostty/themes`.
+3. Open your Ghostty configuration file: in Ghostty press Cmd+, on macOS or Ctrl+, on Linux, and it opens in your editor (Ghostty creates it if you have none yet).
+4. Add a line `theme = <the file name>`, for example `theme = Codigrate London`.
+5. Save, then reload the configuration (Shift+Cmd+, on macOS, Ctrl+Shift+, on Linux) or restart Ghostty to apply the changes.
 
 ## Notes
 
