@@ -1779,7 +1779,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F1F9F3.png?width=30&height=30" alt="#F1F9F3"></td>
+      <td><img src="https://codigrate.com/util/color/F1F9F5.png?width=30&height=30" alt="#F1F9F5"></td>
       <td>
          Ha'penny White
       </td>
@@ -1787,7 +1787,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/F1F9F3">#F1F9F3</a>
+         <a href="https://codigrate.com/tools/color/F1F9F5">#F1F9F5</a>
       </td>
    </tr>
    <tr>
