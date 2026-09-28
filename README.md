@@ -1779,7 +1779,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
 
 <table>
    <tr>
-      <td><img src="https://codigrate.com/util/color/F3F8F5.png?width=30&height=30" alt="#F3F8F5"></td>
+      <td><img src="https://codigrate.com/util/color/F1F9F4.png?width=30&height=30" alt="#F1F9F4"></td>
       <td>
          Ha'penny White
       </td>
@@ -1787,7 +1787,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/tools/color/F3F8F5">#F3F8F5</a>
+         <a href="https://codigrate.com/tools/color/F1F9F4">#F1F9F4</a>
       </td>
    </tr>
    <tr>
@@ -1805,7 +1805,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
    <tr>
       <td><img src="https://codigrate.com/util/color/FBE3C3.png?width=30&height=30" alt="#FBE3C3"></td>
       <td>
-         Liffey Mist
+         Ha'penny White
       </td>
       <td>
          Selection Background
