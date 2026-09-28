@@ -1751,6 +1751,83 @@ Inspired by London at dusk, this dark theme rests on a slate grey base washed wi
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=dublin&platform=ghostty">
+      <img src="cities/dublin-theme/icon.png" alt="Dublin" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Dublin
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=dublin&platform=ghostty)
+
+## Description
+
+Inspired by Dublin on a bright morning, this light theme rests on a fresh park green base, then lights it with shamrock green and the orange of the autumn trees around the castle tower. The soft green surface keeps long sessions easy on the eyes while the green and orange accents mark what matters.
+
+## Screenshots
+
+<img src="cities/dublin-theme/screenshot-1.png" alt="Dublin screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/F3F8F5.png?width=30&height=30" alt="#F3F8F5"></td>
+      <td>
+         Ha'penny White
+      </td>
+      <td>
+         Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/F3F8F5">#F3F8F5</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/0F2E1A.png?width=30&height=30" alt="#0F2E1A"></td>
+      <td>
+         Black Pool
+      </td>
+      <td>
+         Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/0F2E1A">#0F2E1A</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/FBE3C3.png?width=30&height=30" alt="#FBE3C3"></td>
+      <td>
+         Liffey Mist
+      </td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/FBE3C3">#FBE3C3</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/1B6B3A.png?width=30&height=30" alt="#1B6B3A"></td>
+      <td>
+         Stephen's Green
+      </td>
+      <td>
+         Cursor
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/1B6B3A">#1B6B3A</a>
+      </td>
+   </tr>
+</table>
+
 <!-- codigrate-readme-footer -->
 
 ## Contributing
