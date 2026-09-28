@@ -1805,7 +1805,7 @@ Inspired by Dublin on a bright morning, this light theme rests on a fresh park g
    <tr>
       <td><img src="https://codigrate.com/util/color/FBE3C3.png?width=30&height=30" alt="#FBE3C3"></td>
       <td>
-         Ha'penny White
+         Liffey Mist
       </td>
       <td>
          Selection Background
