@@ -30,22 +30,22 @@ cursor-text = #0C0F1C
 palette = 0=#0F121F
 
 # Red
-palette = 1=#5CC19D
+palette = 1=#5DC8D6
 
 # Green
-palette = 2=#5DC8D6
+palette = 2=#8295B1
 
 # Yellow
-palette = 3=#DC9DA6
+palette = 3=#A3C683
 
 # Blue
-palette = 4=#ECA1EB
+palette = 4=#7B89C8
 
 # Magenta
-palette = 5=#7B89C8
+palette = 5=#DC9DA6
 
 # Cyan
-palette = 6=#DD9B7F
+palette = 6=#ECA1EB
 
 # White
 palette = 7=#BFC0C6
@@ -56,22 +56,22 @@ palette = 7=#BFC0C6
 palette = 8=#565A6A
 
 # Bright Red
-palette = 9=#69C6A5
+palette = 9=#6ACCD9
 
 # Bright Green
-palette = 10=#6ACCD9
+palette = 10=#8C9DB7
 
 # Bright Yellow
-palette = 11=#DFA5AD
+palette = 11=#AACB8D
 
 # Bright Blue
-palette = 12=#EEA9ED
+palette = 12=#8692CC
 
 # Bright Magenta
-palette = 13=#8692CC
+palette = 13=#DFA5AD
 
 # Bright Cyan
-palette = 14=#E0A389
+palette = 14=#EEA9ED
 
 # Bright White
 palette = 15=#D8D8DC
