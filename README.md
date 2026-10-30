@@ -928,6 +928,83 @@ Inspired by a spring garden in full bloom, from tulip beds and crocus to the fir
    </tr>
 </table>
 
+---
+
+<p align="center">
+   <a href="https://codigrate.com/theme?product=bioluminescence&platform=ghostty">
+      <img src="nature/bioluminescence-theme/icon.png" alt="Bioluminescence" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+   Bioluminescence
+   <br>
+   (Premium)
+</h1>
+
+[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/theme?product=bioluminescence&platform=ghostty)
+
+## Description
+
+Inspired by a bioluminescent shore at night, where every wave breaking on the sand lights up in electric blue, this dark theme rests on a near-black ocean base tinted with midnight navy, then lights it with glowing cyan, plankton blue, and violet accents. The deep water surface keeps long sessions calm, while the luminous cold accents draw the eye to what matters.
+
+## Screenshots
+
+<img src="nature/bioluminescence-theme/screenshot-1.png" alt="Bioluminescence screenshot">
+
+## Color Palette
+
+<table>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/06080F.png?width=30&height=30" alt="#06080F"></td>
+      <td>
+         Deep Tide
+      </td>
+      <td>
+         Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/06080F">#06080F</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/C9D0DB.png?width=30&height=30" alt="#C9D0DB"></td>
+      <td>
+         Moonlit Foam
+      </td>
+      <td>
+         Foreground
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/C9D0DB">#C9D0DB</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/282D3E.png?width=30&height=30" alt="#282D3E"></td>
+      <td>
+         Undertow
+      </td>
+      <td>
+         Selection Background
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/282D3E">#282D3E</a>
+      </td>
+   </tr>
+   <tr>
+      <td><img src="https://codigrate.com/util/color/95B4EA.png?width=30&height=30" alt="#95B4EA"></td>
+      <td>
+         Periwinkle Glow
+      </td>
+      <td>
+         Cursor
+      </td>
+      <td>
+         <a href="https://codigrate.com/tools/color/95B4EA">#95B4EA</a>
+      </td>
+   </tr>
+</table>
+
 ## Cities
 
 <p align="center">
